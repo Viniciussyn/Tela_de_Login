@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tela_de_Login</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+</resources>
